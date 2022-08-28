@@ -24,7 +24,7 @@ define('FORTE_ADJECTIVE_LIST', __DIR__.'/adjectives.txt');
 define('FORTE_REGIONALADJ_LIST', __DIR__.'/regionaladj.txt');
 
 // noun list
-define('FORTE_POKEMON_LIST', __DIR__.'/pokemons.txt');
+define('FORTE_POKEMON_LIST', __DIR__.'/pokemon.txt');
 
 
 /********** No touching further **************/
