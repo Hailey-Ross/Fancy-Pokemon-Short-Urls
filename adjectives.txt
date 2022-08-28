@@ -39,7 +39,6 @@ paralyzed
 poisoned
 badlypoisoned
 sleeping
-frostbitten
 drowsy
 bound
 confused
