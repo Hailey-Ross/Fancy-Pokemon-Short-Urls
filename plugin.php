@@ -4,7 +4,7 @@ Plugin Name: Fancy Pokemon Urls
 Description: Short URLs like <tt>https://short.rip/ModestAlolanDuosion</tt>
 Version: 0.1
 Modifier: Forte
-
+Plugin URI: https://github.com/fortepc/Fancy-Pokemon-Short-Urls
 
 Original Plugin Name: Word Based Short Urls
 Original Plugin Author: Ozh 
